@@ -1,24 +1,24 @@
-Your name
+Jazzlyn Pulley
 CSCI-305
 
-10.
+10. When trying other words, I noticed the title gets into a loop where it repeats three words. This occurred a lot with the phrase “ready for you”.
 
-14.
+14. Since it is taking the most common word each time, it is highly likely that it gets to the most common occurring bigrams.
 
-15.
+15. No I was not able to, because I used words that were likely to occur multiple times.
 
-16.
+16. NA (sorry)
 
-19.
+19. Yes I got Bob Rogers every time.
 
-20.
+20. “room view kill ape shall go my life less ordinary couple swells”
 
-21.
+21. I like not having to put semicolons in Ruby, because it is one less thing to worry about.
 
-22.
+22. I dislike not being able to put stops and starts in your code to debug it (maybe you can I did not figure that out).
 
-23.
+23. I did not enjoy this lab, because I am still very confused on regular expressions.  I did like using a hash map for a more uncommon use.
 
-24.
+24. 12+ hours
 
-25.
+25. If I were to use Ruby again, I think it would be for regular expressions so I could practice more with this new syntax.
